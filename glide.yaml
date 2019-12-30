@@ -1,0 +1,4 @@
+package: Mind
+import:
+- package: github.com/BurntSushi/toml
+  version: v0.3.1
